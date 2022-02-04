@@ -1,9 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:origo_iceland_project_app/helpers/communication_handler.dart';
-import 'package:origo_iceland_project_app/screens/bmi_page.dart';
 import 'package:origo_iceland_project_app/screens/home_page.dart';
-import 'package:origo_iceland_project_app/screens/question_page.dart';
 import 'services/preferences.dart';
 
 Future<void> main() async {

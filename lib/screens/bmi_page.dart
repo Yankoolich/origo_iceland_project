@@ -1,12 +1,8 @@
-// ignore_for_file: prefer_const_constructors
-
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
 import 'package:origo_iceland_project_app/helpers/communication_handler.dart';
 import 'package:origo_iceland_project_app/helpers/model_helper.dart';
 import 'package:origo_iceland_project_app/helpers/util_helper.dart';
 import 'package:origo_iceland_project_app/models/main_model.dart';
-import 'package:origo_iceland_project_app/screens/home_page.dart';
 import 'package:origo_iceland_project_app/screens/question_page.dart';
 import 'package:origo_iceland_project_app/services/preferences.dart';
 
